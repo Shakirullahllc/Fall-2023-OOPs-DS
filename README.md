@@ -30,4 +30,4 @@ This repository contains coursework, assignments, and projects for the **Fall 20
 ## Getting Started
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Fall-2023-OOPs-DS.git
+   git clone https://github.com/Shakirullahllc/Fall-2023-OOPs-DS.git
