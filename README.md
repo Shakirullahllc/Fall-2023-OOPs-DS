@@ -103,7 +103,7 @@ Contributions are highly encouraged! To contribute:
 
 ## 📧 Contact & Support
 For any queries or support, reach out via:
-- **📩 Email**: support@example.com
+- **📩 Email**: shakirullahllc@gmail.com
 - **📌 GitHub Issues**: [Create an Issue](https://github.com/Shakirullahllc/Fall-2023-OOPs-DS/issues)
 
 ---
