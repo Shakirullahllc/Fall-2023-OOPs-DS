@@ -1,6 +1,6 @@
 # 🎓 Fall 2023 - Object-Oriented Programming (OOP) & Data Structures (DS)
 
-![OOP & DS Banner](https://via.placeholder.com/1000x300.png?text=Fall+2023+OOP+%26+DS)  
+
 *A comprehensive repository for coursework, assignments, projects, and exam preparation related to OOP and DS.*
 
 ---
